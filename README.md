@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-gif-url-here.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5aGpvZWh0aWJydXM0MXlybnZzaDU1bGtsOGNveHd3aXpyaDI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)" alt="GIF" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5aGpvZWh0aWJydXM0MXlybnZzaDU1bGtsOGNveHd3aXpyaDI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="GIF" width="300" />
   
   <!-- Introduction Header -->
   <h1>Hi, there 👋</h1>
