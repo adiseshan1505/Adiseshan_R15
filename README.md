@@ -7,7 +7,7 @@
 <ul style="list-style: none; text-align: left; display: inline-block;">
   <li>🌱 Currently working on a full stack responsive blog page</li>
   <li>📚 Currently learning Machine Learning and Data Science</li>
-  <li>🚀 Always Learning!!!</li>
+  <li>🚀 Always open to learning new stuff!!!</li>
   <li>🎶 A passionate percussionist, musician, Software Developer, and a footballer</li>
 </ul>
 <ul style="list-style: none; text-align: left; display: inline-block;"></ul>
