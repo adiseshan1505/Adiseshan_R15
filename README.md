@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5aGpvZWh0aWJydXM0MXlybnZzaDU1bGtsOGNveHd3aXpyaDI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="GIF" width="300" />
   
-  <!-- Introduction Header -->
   <h1>Hi, there 👋</h1>
-  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5aGpvZWh0aWJydXM0MXlybnZzaDU1bGtsOGNveHd3aXpyaDI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="GIF" width="300" />
+  </div>
   <!-- About Section -->
   <h2>A passionate software developer to solve problems and build impactful digital solutions!!!</h2>
   
@@ -14,4 +13,3 @@
     <li>🚀 Always Learning!!!</li>
     <li>🎶 A passionate percussionist, musician, Software Developer, and a footballer</li>
   </ul>
-</div>
