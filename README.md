@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5aGpvZWh0aWJydXM0MXlybnZzaDU1bGtsOGNveHd3aXpyaDI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="GIF" width="300" />
 </div>
 
-<h2>Hi👋there, I am Adiseshan Ramanan a passionate Data Scientist and ML Engineer from India.</h2>
+<h2>Hi👋there, I am Adiseshan Ramanan a passionate Data Scientist and Analyst and ML Engineer from India.</h2>
 <ul style="list-style: none; text-align: left; display: inline-block;">
   <li>📚 Currently learning Machine Learning</li>
   <li>Extremely interested in Data Analytics to analyse data. Proficient in DBMS (PostgreSQL), Python, Data Visualization and Power-BI to create visualized reports for Businesses.</li>
