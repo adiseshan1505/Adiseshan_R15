@@ -5,8 +5,10 @@
 
 <h2>Hi👋there, I am Adiseshan Ramanan a passionate Data Scientist and ML Engineer from India.</h2>
 <ul style="list-style: none; text-align: left; display: inline-block;">
-   <li>📚 Currently learning Machine Learning and Data Science</li>
-  <li>🌱 Currently working on a full stack responsive blog page</li>
+  <li>Learnt Analytical Skills in Data Science.</li>
+  <li>Proficient with DBMS (PostgreSQL), Python, Data Visualization and Power-BI to create visualized reports for Businesses.</li>
+   <li>📚 Currently learning Machine Learning</li>
+  <li>🌱 Currently Working on a ML model based on live dataset of Space-X.</li>
   <li>🚀 Always open to learning new stuff!!!</li>
   <li>🎶 A passionate percussionist, musician, developer, and a footballer</li>
 </ul>
